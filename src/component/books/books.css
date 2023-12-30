@@ -1,0 +1,22 @@
+.books-list{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center; 
+    padding: 8px;
+    margin: 8px 0;
+    list-style: none;
+}
+
+.book-image{
+    width: 100px; /* Set width for the book image */
+    height: 125px; /* Maintain aspect ratio */
+    margin-right: 8px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.book-name{
+    max-width: 100px;
+    height:175px;
+    display: flex;
+    overflow:hidden;
+}
