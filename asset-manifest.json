@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/virtual-book-store/static/css/main.a1ab0358.css",
+    "main.js": "/virtual-book-store/static/js/main.50ec31ef.js",
+    "static/media/logo.svg": "/virtual-book-store/static/media/logo.a6db8906ce0ff29a549965c0d0fcfd6f.svg",
+    "index.html": "/virtual-book-store/index.html",
+    "main.a1ab0358.css.map": "/virtual-book-store/static/css/main.a1ab0358.css.map",
+    "main.50ec31ef.js.map": "/virtual-book-store/static/js/main.50ec31ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1ab0358.css",
+    "static/js/main.50ec31ef.js"
+  ]
+}
